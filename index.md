@@ -82,7 +82,7 @@ __Royal Mint__, London
 `1600`
 __Lucasian professor of Mathematics__, Cambridge University
 
-
+:coffee:
 
 <!-- ### Footer
 
